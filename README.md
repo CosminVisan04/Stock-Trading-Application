@@ -43,10 +43,10 @@ mvn install
 
 ### Running
 
-<!--
+
 First we run the `Main` from the `StockApplication` module where we load the stock list and trader list from the yaml files found in the data module.
-Secondly, we run the `MainTradingClient` from the `TraderApplication` module which is creating a new thread for a random non-running bot client.
--->
+Secondly, we run the `MainTradingClient` from the `TraderApplication` module which is creating a new thread for a random non-running bot client. Run that file for how many trading bots you want to connect to the stock server.
+
 
 ## Modules
 
