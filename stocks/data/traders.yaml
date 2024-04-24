@@ -1,0 +1,138 @@
+traderList:
+  - id: "bot1"
+    name: "Just Bob"
+    funds: 10450
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: NVDA
+          quantityShares: 3
+        - stockSymbol: AMD
+          quantityShares: 23
+        - stockSymbol: AAPL
+          quantityShares: 15
+        - stockSymbol: ADBE
+          quantityShares: 1
+
+  - id: "bot2"
+    name: "Bert Macklin FBI"
+    funds: 9999999
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: INTC
+          quantityShares: 9874
+        - stockSymbol: MSFT
+          quantityShares: 10923
+        - stockSymbol: TSLA
+          quantityShares: 134
+        - stockSymbol: ADBE
+          quantityShares: 1249
+
+  - id: "bot3"
+    name: "Bob Johnson"
+    funds: 120000
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: NVDA
+          quantityShares: 35
+        - stockSymbol: AMD
+          quantityShares: 35
+        - stockSymbol: AAPL
+          quantityShares: 83
+        - stockSymbol: INTC
+          quantityShares: 456
+        - stockSymbol: MSFT
+          quantityShares: 83
+        - stockSymbol: TSLA
+          quantityShares: 38
+
+  - id: "bot4"
+    name: "John Bobson"
+    funds: 150000
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: NVDA
+          quantityShares: 35
+        - stockSymbol: AMD
+          quantityShares: 35
+        - stockSymbol: MSFT
+          quantityShares: 83
+        - stockSymbol: TSLA
+          quantityShares: 38
+        - stockSymbol: ADBE
+          quantityShares: 72
+
+  - id: "bot5"
+    name: "Kip Hackman"
+    funds: 1000
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: NVDA
+          quantityShares: 4
+        - stockSymbol: AMD
+          quantityShares: 6
+        - stockSymbol: AAPL
+          quantityShares: 23
+        - stockSymbol: INTC
+          quantityShares: 8
+        - stockSymbol: TSLA
+          quantityShares: 5
+        - stockSymbol: ADBE
+          quantityShares: 7
+
+  - id: "bot6"
+    name: "NoobMaster69"
+    funds: 69420
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: NVDA
+          quantityShares: 42
+        - stockSymbol: AMD
+          quantityShares: 47
+
+  - id: "bot7"
+    name: "Ben Dover"
+    funds: 6000000
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: NVDA
+          quantityShares: 234
+        - stockSymbol: AMD
+          quantityShares: 7654
+        - stockSymbol: AAPL
+          quantityShares: 2345
+        - stockSymbol: INTC
+          quantityShares: 6134
+        - stockSymbol: MSFT
+          quantityShares: 7653
+        - stockSymbol: TSLA
+          quantityShares: 234
+        - stockSymbol: ADBE
+          quantityShares: 543
+
+  - id: "bot8"
+    name: "Lorenzo von Matterhorn"
+    funds: 10000000
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: NVDA
+          quantityShares: 4250
+        - stockSymbol: AMD
+          quantityShares: 643
+        - stockSymbol: AAPL
+          quantityShares: 23423
+        - stockSymbol: INTC
+          quantityShares: 9874
+        - stockSymbol: MSFT
+          quantityShares: 3453
+        - stockSymbol: TSLA
+          quantityShares: 54645
+        - stockSymbol: ADBE
+          quantityShares: 234
+
+  - id: "bot9"
+    name: "B. Nugel"
+    funds: 300000
+    stockPortfolio:
+      assetQuantities:
+        - stockSymbol: AOOP
+          quantityShares: 60000

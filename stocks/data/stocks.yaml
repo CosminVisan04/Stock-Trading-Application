@@ -1,0 +1,50 @@
+stockList:
+  - symbol: NVDA
+    name: NVIDIA Corporation
+    sharesOutstanding: 2496000000
+    price: 222.42
+
+  - symbol: AMD
+    name: Advanced Micro Devices, Inc.
+    sharesOutstanding: 121965282
+    price: 106.22
+
+  - symbol: AAPL
+    name: Apple Inc.
+    sharesOutstanding: 16530166000
+    price: 148.79
+
+  - symbol: INTC
+    name: Intel Corp.
+    sharesOutstanding: 4057000000
+    price: 54.83
+
+  - symbol: MSFT
+    name: Microsoft Corp.
+    sharesOutstanding: 7514891248
+    price: 305.22
+
+  - symbol: TSLA
+    name: Tesla Inc.
+    sharesOutstanding: 990015158
+    price: 756.99
+
+  - symbol: AMZN
+    name: Amazon.com Inc.
+    sharesOutstanding: 506440520
+    price: 3488.24
+
+  - symbol: MRNA
+    name: Moderna Inc.
+    sharesOutstanding: 403646312
+    price: 440.65
+
+  - symbol: ADBE
+    name: Adobe Systems Inc.
+    sharesOutstanding: 476400000
+    price: 665.11
+
+  - symbol: AOOP
+    name: Not Funny
+    sharesOutstanding: 23453000
+    price: 352.1
